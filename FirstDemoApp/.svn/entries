@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://aequor.myvnc.com/aequorsvn/repos/Bausch/BTODKorean/FirstDemoApp/FirstDemoApp
+https://aequor.myvnc.com/aequorsvn/repos
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0ae4e1db-3cfe-47f2-a4e9-ec700f44cce2
+
+main.m
+file
+
+
+
+add
+
+AllApps.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+RatingView
+dir
+
+
+
+add
+
+Helper
+dir
+
+
+
+add
+
+FirstDemoApp-Info.plist
+file
+
+
+
+add
+
+Composition.qtz
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+AppDelegate.h
+file
+
+
+
+add
+
+FirstDemoApp-Prefix.pch
+file
+
+
+
+add
+
+DetailViewController
+dir
+
+
+
+add
+
+MainViewController
+dir
+
+
+
+add
+
+image.png
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+AppDelegate.m
+file
+
+
+
+add
+
+en.lproj
+dir
+
+
+
+add
+
+QCView
+dir
+
+
+
+add
+
